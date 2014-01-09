@@ -3,7 +3,7 @@
 	font-weight: bold;
 }
 #header{
-	font-size: 20px;
+	font-size: 1.25em;
 	font-family: sans-serif;
 	line-height: 1.5;
 	text-decoration: none;
@@ -15,55 +15,55 @@
 #line1{
 	display: block;
 	
-	margin-bottom: 35px
+	margin-bottom: 2.1875em
 }
 #line2{
 	display: block;
 
-	margin-bottom: 35px
+	margin-bottom: 2.1875em
 }
 #line3{
 	display: block;
 
-	margin-bottom: 35px
+	margin-bottom: 2.1875em
 }
 #line4{
 	display: block;
 
-	margin-bottom: 35px
+	margin-bottom: 2.1875em
 }
 
 #wrapper{
-	width: 950px;
+	width: 71%;
 	margin: 0 auto;
-	margin-top: 30px;
+	margin-top: 2.7%;
 }
 .footer1{
 	display: inline-block;
-	width: 25%
-	border: 2px solid;
+
+
 }
 #footer2{
 
-	padding: 10px;
+	padding: .625em;
 	text-align: center;
 	position: relative;
-	margin-right: 5px;
+	margin-right: .3125em;
 	margin-left: 33%;
 }
 #footer3{
 
-	padding: 10px;
+	padding: .625em;
 	text-align: center;
 	position: relative;
-	margin-left: 5px;
+	margin-left: .3125em;
 	margin-right: 33%
 }
 
 #footer4 p{
 	text-align: center;
-	border-top: 1px solid #AAAAAA;
-	padding-top: 15px;
+	border-top: .0625em solid #AAAAAA;
+	padding-top: .9375em;
 }
 a{
 	text-decoration: none;
