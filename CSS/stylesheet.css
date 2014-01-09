@@ -1,0 +1,40 @@
+div p:nth-child(3){
+	text-align: right;
+	font-weight: bold;
+}
+#header{
+	font-size: 22px;
+	font-family: sans-serif;
+}
+.tile{
+	width: 24%;
+	display: inline-block;
+}
+#line1{
+	display: block;
+	
+	margin-bottom: 35px
+}
+#line2{
+	display: block;
+
+	margin-bottom: 35px
+}
+#line3{
+	display: block;
+
+	margin-bottom: 35px
+}
+#line4{
+	display: block;
+
+	margin-bottom: 35px
+}
+
+#wrapper{
+	width: 900px;
+	margin: 0 auto;
+}
+.footer1{
+	display: inline-block;
+}
