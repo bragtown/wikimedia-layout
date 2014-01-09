@@ -5,6 +5,8 @@
 #header{
 	font-size: 20px;
 	font-family: sans-serif;
+	line-height: 1.5;
+	text-decoration: none;
 }
 .tile{
 	width: 24%;
@@ -40,8 +42,6 @@
 	display: inline-block;
 	width: 25%
 	border: 2px solid;
-
-
 }
 #footer2{
 
@@ -50,7 +50,6 @@
 	position: relative;
 	margin-right: 5px;
 	margin-left: 33%;
-
 }
 #footer3{
 
@@ -59,4 +58,13 @@
 	position: relative;
 	margin-left: 5px;
 	margin-right: 33%
+}
+
+#footer4 p{
+	text-align: center;
+	border-top: 1px solid #AAAAAA;
+	padding-top: 15px;
+}
+a{
+	text-decoration: none;
 }
